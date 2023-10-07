@@ -1,0 +1,11 @@
+.container__header-title {
+  color: white;
+}
+
+.container__header-title h1 {
+  display: flex;
+  font-size: 135px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  justify-content: center;
+  margin: 15px 0;
+}
