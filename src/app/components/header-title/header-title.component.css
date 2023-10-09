@@ -1,0 +1,10 @@
+.container__header-title {
+  color: white;
+}
+
+.container__header-title h1 {
+  display: flex;
+  font-size: 135px;
+  justify-content: center;
+  margin: 15px 0;
+}

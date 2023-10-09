@@ -1,11 +1,27 @@
-.container__header-title {
-  color: white;
+.container__main-card {
+  align-items: flex-start;
+  border: solid white 2px;
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  justify-content: flex-start;
+  margin: 0 10px;
+  width: 500px;
 }
 
-.container__header-title h1 {
-  display: flex;
-  font-size: 135px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  justify-content: center;
-  margin: 15px 0;
+.main-card__image {
+  width: 100%;
+  min-width: 400px;
+}
+
+.main-card__image > img {
+  width: 100%;
+}
+.main-card__title h1 {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.main-card__description p {
+  color: gray;
 }
