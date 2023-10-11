@@ -2,12 +2,14 @@
   border: 1px solid white;
   display: flex;
   flex-direction: row;
-  min-width: 400px;
-  width: 50%;
+  align-items: center;
+  /* min-width: 400px; */
+  /* width: 100%; */
 }
 
 .small-card__image img {
-  width: 200px;
+  width: 259px;
+  height: 196px;
   min-width: 200px;
   margin-right: 20px;
 }
