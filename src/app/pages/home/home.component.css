@@ -1,7 +1,17 @@
 .container__articles {
   display: flex;
   flex-direction: row;
+  background-color: #1a1b1f;
+  border: 1px solid white;
   justify-content: center;
   margin-top: 30px;
+  /* max-width: 1280px; */
+}
+
+header {
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  /* width: 90%; */
 }
 
