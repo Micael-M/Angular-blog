@@ -1,27 +1,28 @@
-# AngularBlog
+<h1 align="center">🤳💻 Boas vindas ao projeto Sessão de blog com Angular 💻🤳</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+## 💻 Sobre o projeto
 
-## Development server
+Este projeto em Angular está sendo desenvolvido para aplicar os conhecimentos que desenvolvi durante o bootcamp do santander fullstack Angular na plataforma da DIO. Tomei como base a sessão do blog do [dwinawan](https://www.dwinawan.com/blog). Ainda estou trabalhando neste projeto, pois desejo refatorá-lo para mobile first e posteriormente adicionar mais seções. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Aprendizados - Hard e Soft Skills 💪🏽💭
 
-## Code scaffolding
+Está sendo bem divertido desenvolver este projeto em Angular, pois já havia desenvolvido projetos com a biblioteca React e percebi que eu poderia trazer alguns aprendizados absorvidos no React para o framework Angular. Tenho muita coisa a aprender ainda, mas até agora me desafiei a aprender esse framework e estou me surpreendendo com as novas descobertas.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Como rodar - Servidor de desenvolvimento
 
-## Build
+Execute o comando `ng serve` para subir um servidor de desenvolvimento. 
+Em seguida, navegue para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<section class="social_networks">
+  <p align="center">Para entrar em contato é só clicar no link abaixo!<br></p>
+  <div align="center" class="contacts" >
+    <a href="https://www.linkedin.com/in/micael-maicon/" target="_blank" alt="Linkedin do autor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/fcc551d4cff1847eb5a8ee518859132d52149a6db9f37833fdbea96451684bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f69757269636f6465" style="max-width: 100%;">
+  </a>
+  <a href="https://discord.gg/QXGn6nt2" target="_blank" alt="Discord do autor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/964caa47c23f903c00d8966c08f42ee934635bae58d018b5e69b9d08f5e41d42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f646973636f72642e67672f516576444a71437a6159" style="max-width: 100%;">
+  </a>
+  </div>  
+<section>
